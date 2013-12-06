@@ -26,6 +26,10 @@ Prendete questo esempio come base, ovviamente conoscete una struttura che per vo
 * Una volta scelta la naming convention per la vostra proposta, usate sempre quella, non mischiate.
 * Le cartelle con le proposte devono essere nominate secondo il modello [nomeProprietario]-nomeProgetto (esempio: [tizBasile]-mioProgetto
 
+##Punti chiave del progetto
+* Il sito web deve essere scritto in HTML5 e deve essere responsive (consigliato l'uso di [Bootstrap](http://getbootstrap.com) per realizzarlo)
+
+
 =========================
 Per domande, richieste di partecipazione e quant'altro potete:
 * [inviarmi un'email](mailto:tiz.basile@gmail.com)
