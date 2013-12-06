@@ -28,7 +28,8 @@ Prendete questo esempio come base, ovviamente conoscete una struttura che per vo
 
 ##Punti chiave del progetto
 * Il sito web deve essere scritto in HTML5 e deve essere responsive (consigliato l'uso di [Bootstrap](http://getbootstrap.com) per realizzarlo)
-
+* Ogni file *deve contenere [una copia della licenza](https://github.com/TarantoLUG/TarantoLUG_Website/blob/master/LICENSE)*
+* è bene inserire ogni autore all'interno del file [AUTHORS](https://github.com/TarantoLUG/TarantoLUG_Website/blob/master/AUTHORS.md)
 
 =========================
 Per domande, richieste di partecipazione e quant'altro potete:
