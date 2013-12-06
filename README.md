@@ -12,10 +12,10 @@ Questo repo contiene il codice relativo al sito del TarantoLUG; il progetto è s
 Ogni cartella con le proposte deve contenere la seguente struttura:
 
 * [nomeProprietario]-nomeProgetto
-..* img (cartella per le immagini)
-..* css
-..* js (per il javascript)
-..* include (per eventuali librerie esterne e file php, è preferibile creare due sottocartelle, js e php giusto per una questione d'ordine)
+  * img (cartella per le immagini)
+  * css
+  * js (per il javascript)
+  * include (per eventuali librerie esterne e file php, è preferibile creare due sottocartelle, js e php giusto per una questione d'ordine)
 
 
 Prendete questo esempio come base, ovviamente conoscete una struttura che per voi è più comoda proponete pure.
